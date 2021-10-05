@@ -36,6 +36,19 @@
 2. [97 вещей, которые должен знать каждый программист](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/ru/)
 
 
+### 3. Проектирование модулей
+
+[Презентация](https://docs.google.com/presentation/d/1nWGsO0tzJlfhevSeMdg6jNNuAkZljAY48yvbTNAcIRo/edit?usp=sharing)
+
+**Задача**
+
+Написать консольный туду-лист с возможностью сохранять состояние в файле.
+
+Код для туду-листа уже есть, надо разделить его на модули.
+
+[Код, который надо отрефакторить](exercises/03-todo-list)
+
+
 ## Практика
 
 ### Задача 1. Родственные связи
