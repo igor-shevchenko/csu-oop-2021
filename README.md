@@ -49,6 +49,16 @@
 [Код, который надо отрефакторить](exercises/03-todo-list)
 
 
+### 4. Принципы SOLID
+
+[Презентация](https://docs.google.com/presentation/d/1UNpF0XrCIcbwJJicYpqEDDV-u0R0oRP1OGJaPDLUTR0/edit?usp=sharing)
+
+**Литература**
+1. Роберт Мартин. Принципы, паттерны и методики гибкой разработки на языке C#
+2. [Серия постов Сергея Теплякова про SOLID](http://sergeyteplyakov.blogspot.com/2014/10/solid.html)
+3. [Серия постов Александра Бындю про SOLID](https://blog.byndyu.ru/2009/12/blog-post.html)
+
+
 ## Практика
 
 ### Задача 1. Родственные связи
