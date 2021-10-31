@@ -69,6 +69,11 @@
 3. [Паттерны проектирования на refactoring.guru](https://refactoring.guru/ru/design-patterns)
 
 
+### 6. Практика по паттернам
+
+[Репозиторий с задачами](https://github.com/csu-iit/programming-Patterms.CSharp)
+
+
 ## Практика
 
 ### Задача 1. Родственные связи
