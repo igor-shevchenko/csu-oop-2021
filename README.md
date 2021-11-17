@@ -93,6 +93,18 @@
 [Презентация](https://docs.google.com/presentation/d/1gqToCsTqqOXFgGKSdd8y1OSkXFCafi2Cc45NN3P9Myw/edit?usp=sharing)
 
 
+### 9. Технический долг
+
+[Презентация](https://docs.google.com/presentation/d/1uZksQpM3EE4aQyud_b6jMvR07sjO9I2-STX3UD_2ef4/edit?usp=sharing)
+
+**Литература**
+1. Мартин Фаулер. Рефакторинг
+2. [Каталог рефакторингов на refactoring.guru](https://refactoring.guru/ru/refactoring)
+3. [Подкаст «Подлодка» с Александром Бындю о техдолге](https://soundcloud.com/podlodka/podlodka-77-tekhnicheskiy-dolg)
+4. [Статья Александра Бындю про технический долг](https://blog.byndyu.ru/2008/12/blog-post.html)
+5. [Синдром рефакторинга](http://sergeyteplyakov.blogspot.com/2011/05/blog-post_26.html)
+
+
 ## Практика
 
 ### Задача 1. Родственные связи
