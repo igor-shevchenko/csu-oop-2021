@@ -121,6 +121,31 @@
 [Код решения](exercises/10-PizzaShop)
 
 
+### 11. Domain-Driven Design  
+
+[Презентация](https://docs.google.com/presentation/d/1auxLa_NtodDFPeMbAKkYEUZ2GjbQFY22C3Vgvk69hKY/edit?usp=sharing)
+
+[Код примера](https://github.com/urfu-code/Darts)
+
+**Литература**
+
+1. Эрик Эванс. Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем
+2. [Domain Driven Design Quickly — краткое содержание книги Эрика Эванса](http://www.infoq.com/minibooks/domain-driven-design-quickly/)
+3. [Harry Percival, Bob Gregory. Architecture Patterns with Python](https://www.cosmicpython.com/)
+4. [Лекция по DDD на ulearn.me](https://ulearn.me/course/cs2/Chto_takoe_DDD_41922668-4105-4ea0-a1c1-ef138e5441bb)
+
+
+### 12. Практика
+
+Реализовать структуру данных «множество» на основе [бинарного дерева поиска](https://ru.wikipedia.org/wiki/Двоичное_дерево_поиска). Структура данных должна:
+
+1. Реализовывать интерфейс [ISet<T>](https://docs.microsoft.com/ru-ru/dotnet/api/system.collections.generic.iset-1?view=net-5.0)
+2. Поддерживать сохранение в файл и загрузку из файла (можно использовать встроенный механизм сериализации)
+3. Быть покрыта юнит-тестами
+
+[Код решения](exercises/12-Set)
+
+
 ## Практика
 
 ### Задача 1. Родственные связи
